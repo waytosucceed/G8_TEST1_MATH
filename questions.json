@@ -1,0 +1,695 @@
+{
+  "heading": "Selected Topic",
+  "topics": [
+    {
+      "heading": "Real Numbers",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "The multiplicative inverse of following equation:<br><img src='./assests/images/question/1.png' width='80%'>",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "",
+              "image":"./assests/images/option/1.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/2.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/3.jpg"
+            },
+            {
+              "text": "",
+              "image":"./assests/images/option/4.jpg"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 2,
+          "question": " Find the number of factors of 1080.",
+          "options": [
+            {
+              "text": "32"
+
+            },
+            {
+              "text": "28"
+
+            },
+            {
+              "text": "24"
+
+            },
+            {
+              "text": "36"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+        ,
+        {
+          "questionNo": 3,
+          "question": " Find the least natural number which when divided by 16, 20 and 24 leaves remainder 6, 10 and 14 respectively",
+          "options": [
+            {
+              "text": "240"
+
+            },
+            {
+              "text": "230"
+
+            },
+            {
+              "text": "180"
+
+            },
+            {
+              "text": "108"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 4,
+          "question": " Alok wanted to type the first 200 natural numbers. How many times does he have to press the keys?",
+          "options": [
+            {
+              "text": "400"
+
+            },
+            {
+              "text": "365"
+
+            },
+            {
+              "text": "492"
+
+            },
+            {
+              "text": "489"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Squares and Cube Roots",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "Find the value of x<br>3(x - 2)<sup>2</sup> = 507",
+          "options": [
+            {
+              "text": "13"
+            },
+            {
+              "text": "12"
+            },
+            {
+              "text": "15"
+            },
+            {
+              "text": "14"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 6,
+          "question": "The square root of 103 up to three places of decimal is _____.",
+          "options": [
+            {
+              "text": "10.150"
+            },
+            {
+              "text": "10.149"
+            },
+            {
+              "text": "10.148"
+            },
+            {
+              "text": "10.147"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 7,
+          "question": "The least positive integer with which 3125 should be multiplied so that the product is a perfect square is ______.",
+          "options": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "5"
+            },
+            {
+              "text": "6"
+            },
+            {
+              "text": "2"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 8,
+          "question": "Find the divisor, given that the dividend is 2200, remainder is 13 and the divisor is one-third of the quotient.",
+          "options": [
+            {
+              "text": "25"
+            },
+            {
+              "text": "27"
+            },
+            {
+              "text": "24"
+            },
+            {
+              "text": "None of these"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Percentages",
+      "questions": [
+        {
+          "questionNo": 9,
+          "question": "A number, when decreased by 20%, becomes 136. What is the number?",
+          "options": [
+            {
+              "text": "160"
+            },
+            {
+              "text": "150"
+            },
+            {
+              "text": "170"
+            },
+            {
+              "text": "140"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 10,
+          "question": "If X is 30% of Z znd Y is 60% of Z, then X is what percentage of Y?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "30%"
+            },
+            {
+              "text": "50%"
+            },
+            {
+              "text": "100%"
+            },
+            {
+              "text": "60%"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 11,
+          "question": "The ratio of boys and girls in a class is 5:3. 20% of boys and 60% of the girls have passed in first class.What percentage of the class has passed in first class?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "35%"
+            },
+            {
+              "text": "32%"
+            },
+            {
+              "text": "34%"
+            },
+            {
+              "text": "33%"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 12,
+          "question": "If 55% of the teachers in a school are gents and the number of lady teachers in the school is 90, then the total number of teachers in the school is_______.",
+          "options": [
+            {
+              "text": "100"
+
+            },
+            {
+              "text": "150"
+
+            },
+            {
+              "text": "200"
+
+            },
+            {
+              "text": "250"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": "\"Yellow\" has a double \"L\" in the middle, while the other words do not have a double \"L.\""
+        }
+      ]
+    },
+    {
+      "heading": "Ratio and Proportion",
+      "questions": [
+        {
+          "questionNo": 13,
+          "question": "In a class, there are 225 students. Which of the following cannot be the ratio of the number of students passed to the number of students failed?",
+          "options": [
+            {
+              "text": "2 : 3"
+            },
+            {
+              "text": "7 : 8"
+            },
+            {
+              "text": "5 : 4"
+            },
+            {
+              "text": "3 : 4"
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 14,
+          "question": "Present ages of A and B are in the ratio 7 : 4. Which of the following can be the difference between their ages after 8 years?",
+          "options": [
+            {
+              "text": "5 years"
+            },
+            {
+              "text": "10 years"
+            },
+            {
+              "text": "15 years"
+            },
+            {
+              "text": "20 years"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 15,
+          "question": "In a school, there are 650 students. The ratio of the boys to that of the girls is 8:5. How many more girls should join the school so that the ratio becomes 4:3?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "25"
+            },
+            {
+              "text": "50"
+            },
+            {
+              "text": "100"
+            },
+            {
+              "text": "200"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 16,
+          "question": "The ratio between two numbers is 3:5 and their sum is 40. Find the larger of the two numbers.",
+          "options": [
+            {
+              "text": "15"
+            },
+            {
+              "text": "20"
+            },
+            {
+              "text": "25"
+            },
+            {
+              "text": "40"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Time and Distance",
+      "questions": [
+        {
+          "questionNo": 17,
+          "question": "How long does a train, 200 m long, travelling at a speed of 81 km/h takes to cross a stationary train 250 m long?",
+          "options": [
+            {
+              "text": "40 s"
+            },
+            {
+              "text": "30 s"
+            },
+            {
+              "text": "20 s"
+            },
+            {
+              "text": "10 s"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 18,
+          "question": "If a man runs at 9 m/s, then what distance can he cover in 2 h 30 min?",
+          "questionSound":"",
+
+          "options": [
+            {
+              "text": "18 km"
+            },
+            {
+              "text": "27 km"
+            },
+            {
+              "text": "81 km"
+            },
+            {
+              "text": "96 km"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 19,
+          "question": "In a 100 m race, A beats B by 20 m or 5 s. Find the speed of A.",
+          "options": [
+            {
+              "text": "2 m/s"
+            },
+            {
+              "text": "4 m/s"
+            },
+            {
+              "text": "5 m/s"
+            },
+            {
+              "text": "8 m/s"
+            }
+          ],
+          "answer": 2,
+          "explanation": "1"
+        },
+        {
+          "questionNo": 20,
+          "question": "A train took 20 s to cross a stationary pole when travelling at 72 kmph. In how many seconds can it cross a 500 m long bridge?",
+          "options": [
+            {
+              "text": "40"
+            },
+            {
+              "text": "45"
+            },
+            {
+              "text": "50"
+            },
+            {
+              "text": "55"
+            }
+          ],
+          "answer": 1,
+          "explanation": "1"
+        }
+      ]
+    },
+    {
+      "heading": "Indices",
+      "questions": [
+        {
+          "questionNo": 21,
+          "question": "(3x)<sup>3</sup> = 729. Find the value of x<sup>x</sup>",
+          "options": [
+            {
+              "text": "4"
+            },
+            {
+              "text": "16"
+            },
+            {
+              "text": "27"
+            },
+            {
+              "text": "64"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 22,
+          "question": "Find the least number which must be added to 893304 to make it a perfect square.",
+          "options": [
+            {
+              "text": "1672"
+            },
+            {
+              "text": "1612"
+            },
+            {
+              "text": "1622"
+            },
+            {
+              "text": "1632"
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 23,
+          "question": "if 5<sup>n-3</sup> = 625, then <br> 5<sup>n+3</sup> is ________.",
+          "options": [
+            {
+              "text": "5<sup>12</sup>"
+            },
+            {
+              "text": "5<sup>9</sup>"
+            },
+            {
+              "text": "5<sup>10</sup>"
+            },
+            {
+              "text": "5<sup>15</sup>"
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 24,
+          "question": "Find the square root of 0.008281.",
+          "options": [
+            {
+              "text": "0.091"
+            },
+            {
+              "text": "0.91"
+            },
+            {
+              "text": "0.99"
+            },
+            {
+              "text": "0.099"
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    },
+    {
+      "heading": "Linear Equations",
+      "questions": [
+        {
+          "questionNo": 25,
+          "question": "If we divide 180 into two parts such that second part is 12 more than the twice of the first part, then the two parts are ______.",
+          "options": [
+            {
+              "text": "56, 124"
+
+            },
+            {
+              "text": "54, 126"
+
+            },
+            {
+              "text": "52, 128"
+
+            },
+            {
+              "text": "50, 130"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        },
+        {
+          "questionNo": 26,
+          "question": "What will be the value of x - y, if <br>111x + 212y = 434 and 212x + 111y = 535 ?",
+          "options": [
+            {
+              "text": "10"
+
+            },
+            {
+              "text": "4"
+
+            },
+            {
+              "text": "6"
+
+            },
+            {
+              "text": "1"
+
+            }
+          ],
+          "answer": 3,
+          "explanation": ""
+        },
+        {
+          "questionNo": 27,
+          "question": "A person says, 'Twelve years hence my age will be 3 times my age 12 years ago'. Find their present age.",
+          "options": [
+            {
+              "text": "32 years"
+
+            },
+            {
+              "text": "20 years"
+
+            },
+            {
+              "text": "24 years"
+
+            },
+            {
+              "text": "15 years"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 28,
+          "question": "In 1 h, A walks twice the distance that B walks in the same period. In 5 h, A walks 6 miles more than what B walks in 8 h. How many miles does B walk per hour?",
+          "options": [
+            {
+              "text": "4"
+
+            },
+            {
+              "text": "2"
+
+            },
+            {
+              "text": "3"
+
+            },
+            {
+              "text": "5"
+
+            }
+          ],
+          "answer": 2,
+          "explanation": ""
+        },
+        {
+          "questionNo": 29,
+          "question": "The least positive integer x, which satisfies |x - 2| > 7 is ______.",
+          "options": [
+            {
+              "text": "9"
+
+            },
+            {
+              "text": "10"
+
+            },
+            {
+              "text": "7"
+
+            },
+            {
+              "text": "5"
+
+            }
+          ],
+          "answer": 1,
+          "explanation": ""
+        },
+        {
+          "questionNo": 30,
+          "question": "Find the values of x and y, which satisfies the simultaneous equations<br>2006x + 2007y = 8024 and 2007x + 2006y = 8028.",
+          "options": [
+            {
+              "text": "x = 4, y = 0"
+
+            },
+            {
+              "text": "x = 0, y = 4"
+
+            },
+            {
+              "text": "x = y = 4"
+
+            },
+            {
+              "text": "x = y = 0"
+
+            }
+          ],
+          "answer": 0,
+          "explanation": ""
+        }
+      ]
+    }
+  ]
+}
